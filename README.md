@@ -1,3 +1,3 @@
-Project made for classes Designing web applications describing plugin Granim.js using technology HTML, CSS, BOOTSTRAP and JAVASCRIPT.
+Project made for classes Designing web applications in technology HTML and CSS.
 
-Demo: http://antkiewiczbartosz.cba.pl/ProjektPlugin
+DEMO: http://antkiewiczbartosz.cba.pl/ProjektHTML/
